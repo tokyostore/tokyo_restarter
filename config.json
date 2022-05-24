@@ -1,0 +1,11 @@
+{
+    "resources":[
+       {
+           "name":"vrp_admin",
+           "files":[
+                "server.lua",
+                "client.lua"
+           ]
+       }
+    ]
+}
